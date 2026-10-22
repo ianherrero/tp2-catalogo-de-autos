@@ -1,0 +1,502 @@
+[
+  {
+    "id": "A001",
+    "marca": "Ford",
+    "modelo": "Focus",
+    "anio": 2018,
+    "precio_usd": 20500,
+    "kilometraje": 70000,
+    "combustible": "Nafta",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A002",
+    "marca": "Nissan",
+    "modelo": "Versa",
+    "anio": 2023,
+    "precio_usd": 7000,
+    "kilometraje": 5000,
+    "combustible": "Nafta",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A003",
+    "marca": "Chevrolet",
+    "modelo": "Tracker",
+    "anio": 2010,
+    "precio_usd": 17500,
+    "kilometraje": 225000,
+    "combustible": "Híbrido",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A004",
+    "marca": "Chevrolet",
+    "modelo": "Cruze",
+    "anio": 2018,
+    "precio_usd": 5000,
+    "kilometraje": 240000,
+    "combustible": "Nafta",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A005",
+    "marca": "Renault",
+    "modelo": "Sandero",
+    "anio": 2014,
+    "precio_usd": 18500,
+    "kilometraje": 240000,
+    "combustible": "Diesel",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A006",
+    "marca": "Ford",
+    "modelo": "Fiesta",
+    "anio": 2013,
+    "precio_usd": 27500,
+    "kilometraje": 110000,
+    "combustible": "Híbrido",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A007",
+    "marca": "Toyota",
+    "modelo": "Yaris",
+    "anio": 2024,
+    "precio_usd": 39000,
+    "kilometraje": 35000,
+    "combustible": "Diesel",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A008",
+    "marca": "Nissan",
+    "modelo": "Sentra",
+    "anio": 2021,
+    "precio_usd": 17000,
+    "kilometraje": 225000,
+    "combustible": "Nafta",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A009",
+    "marca": "Chevrolet",
+    "modelo": "Cruze",
+    "anio": 2012,
+    "precio_usd": 19500,
+    "kilometraje": 30000,
+    "combustible": "Diesel",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A010",
+    "marca": "Honda",
+    "modelo": "HR-V",
+    "anio": 2021,
+    "precio_usd": 15000,
+    "kilometraje": 115000,
+    "combustible": "Diesel",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A011",
+    "marca": "Peugeot",
+    "modelo": "2008",
+    "anio": 2012,
+    "precio_usd": 15500,
+    "kilometraje": 170000,
+    "combustible": "Híbrido",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A012",
+    "marca": "Volkswagen",
+    "modelo": "Polo",
+    "anio": 2022,
+    "precio_usd": 22000,
+    "kilometraje": 200000,
+    "combustible": "Híbrido",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A013",
+    "marca": "Renault",
+    "modelo": "Clio",
+    "anio": 2017,
+    "precio_usd": 7000,
+    "kilometraje": 100000,
+    "combustible": "Diesel",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A014",
+    "marca": "Ford",
+    "modelo": "Focus",
+    "anio": 2020,
+    "precio_usd": 18500,
+    "kilometraje": 205000,
+    "combustible": "Diesel",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A015",
+    "marca": "Honda",
+    "modelo": "Civic",
+    "anio": 2018,
+    "precio_usd": 13500,
+    "kilometraje": 75000,
+    "combustible": "Híbrido",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A016",
+    "marca": "Citroen",
+    "modelo": "C4",
+    "anio": 2022,
+    "precio_usd": 28000,
+    "kilometraje": 70000,
+    "combustible": "Nafta",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A017",
+    "marca": "Ford",
+    "modelo": "Focus",
+    "anio": 2013,
+    "precio_usd": 14500,
+    "kilometraje": 200000,
+    "combustible": "Nafta",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A018",
+    "marca": "Citroen",
+    "modelo": "C3",
+    "anio": 2022,
+    "precio_usd": 29000,
+    "kilometraje": 190000,
+    "combustible": "Diesel",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A019",
+    "marca": "Nissan",
+    "modelo": "Versa",
+    "anio": 2013,
+    "precio_usd": 39000,
+    "kilometraje": 240000,
+    "combustible": "Diesel",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A020",
+    "marca": "Ford",
+    "modelo": "Fiesta",
+    "anio": 2023,
+    "precio_usd": 15000,
+    "kilometraje": 145000,
+    "combustible": "Nafta",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A021",
+    "marca": "Nissan",
+    "modelo": "Versa",
+    "anio": 2013,
+    "precio_usd": 24000,
+    "kilometraje": 200000,
+    "combustible": "Híbrido",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A022",
+    "marca": "Volkswagen",
+    "modelo": "Polo",
+    "anio": 2015,
+    "precio_usd": 39500,
+    "kilometraje": 245000,
+    "combustible": "Híbrido",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A023",
+    "marca": "Citroen",
+    "modelo": "C4",
+    "anio": 2025,
+    "precio_usd": 6000,
+    "kilometraje": 35000,
+    "combustible": "Diesel",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A024",
+    "marca": "Chevrolet",
+    "modelo": "Onix",
+    "anio": 2017,
+    "precio_usd": 10000,
+    "kilometraje": 25000,
+    "combustible": "Híbrido",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A025",
+    "marca": "Ford",
+    "modelo": "Ka",
+    "anio": 2014,
+    "precio_usd": 13000,
+    "kilometraje": 210000,
+    "combustible": "Diesel",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A026",
+    "marca": "Peugeot",
+    "modelo": "2008",
+    "anio": 2023,
+    "precio_usd": 18500,
+    "kilometraje": 170000,
+    "combustible": "Híbrido",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A027",
+    "marca": "Peugeot",
+    "modelo": "308",
+    "anio": 2021,
+    "precio_usd": 33000,
+    "kilometraje": 165000,
+    "combustible": "Diesel",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A028",
+    "marca": "Chevrolet",
+    "modelo": "Onix",
+    "anio": 2012,
+    "precio_usd": 26500,
+    "kilometraje": 5000,
+    "combustible": "Híbrido",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A029",
+    "marca": "Citroen",
+    "modelo": "C3",
+    "anio": 2010,
+    "precio_usd": 9500,
+    "kilometraje": 225000,
+    "combustible": "Híbrido",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A030",
+    "marca": "Chevrolet",
+    "modelo": "Onix",
+    "anio": 2011,
+    "precio_usd": 26000,
+    "kilometraje": 20000,
+    "combustible": "Híbrido",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A031",
+    "marca": "Peugeot",
+    "modelo": "2008",
+    "anio": 2025,
+    "precio_usd": 18500,
+    "kilometraje": 170000,
+    "combustible": "Nafta",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A032",
+    "marca": "Chevrolet",
+    "modelo": "Cruze",
+    "anio": 2023,
+    "precio_usd": 17000,
+    "kilometraje": 30000,
+    "combustible": "Nafta",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A033",
+    "marca": "Renault",
+    "modelo": "Sandero",
+    "anio": 2023,
+    "precio_usd": 34500,
+    "kilometraje": 230000,
+    "combustible": "Nafta",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A034",
+    "marca": "Toyota",
+    "modelo": "Etios",
+    "anio": 2020,
+    "precio_usd": 11500,
+    "kilometraje": 75000,
+    "combustible": "Nafta",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A035",
+    "marca": "Nissan",
+    "modelo": "Sentra",
+    "anio": 2014,
+    "precio_usd": 32000,
+    "kilometraje": 55000,
+    "combustible": "Diesel",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A036",
+    "marca": "Chevrolet",
+    "modelo": "Onix",
+    "anio": 2024,
+    "precio_usd": 40000,
+    "kilometraje": 30000,
+    "combustible": "Nafta",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A037",
+    "marca": "Ford",
+    "modelo": "Focus",
+    "anio": 2015,
+    "precio_usd": 31000,
+    "kilometraje": 155000,
+    "combustible": "Diesel",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A038",
+    "marca": "Fiat",
+    "modelo": "Cronos",
+    "anio": 2015,
+    "precio_usd": 29000,
+    "kilometraje": 0,
+    "combustible": "Diesel",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A039",
+    "marca": "Honda",
+    "modelo": "Fit",
+    "anio": 2023,
+    "precio_usd": 36000,
+    "kilometraje": 45000,
+    "combustible": "Nafta",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A040",
+    "marca": "Chevrolet",
+    "modelo": "Onix",
+    "anio": 2011,
+    "precio_usd": 25000,
+    "kilometraje": 15000,
+    "combustible": "Nafta",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A041",
+    "marca": "Nissan",
+    "modelo": "Kicks",
+    "anio": 2015,
+    "precio_usd": 8500,
+    "kilometraje": 160000,
+    "combustible": "Nafta",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A042",
+    "marca": "Ford",
+    "modelo": "Ka",
+    "anio": 2012,
+    "precio_usd": 20000,
+    "kilometraje": 125000,
+    "combustible": "Nafta",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A043",
+    "marca": "Citroen",
+    "modelo": "Berlingo",
+    "anio": 2011,
+    "precio_usd": 10000,
+    "kilometraje": 130000,
+    "combustible": "Híbrido",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A044",
+    "marca": "Peugeot",
+    "modelo": "208",
+    "anio": 2020,
+    "precio_usd": 20000,
+    "kilometraje": 80000,
+    "combustible": "Diesel",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A045",
+    "marca": "Peugeot",
+    "modelo": "308",
+    "anio": 2020,
+    "precio_usd": 9500,
+    "kilometraje": 0,
+    "combustible": "Diesel",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A046",
+    "marca": "Ford",
+    "modelo": "Ka",
+    "anio": 2016,
+    "precio_usd": 37000,
+    "kilometraje": 80000,
+    "combustible": "Nafta",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A047",
+    "marca": "Ford",
+    "modelo": "Focus",
+    "anio": 2021,
+    "precio_usd": 23000,
+    "kilometraje": 50000,
+    "combustible": "Diesel",
+    "transmision": "Automática"
+  },
+  {
+    "id": "A048",
+    "marca": "Citroen",
+    "modelo": "Berlingo",
+    "anio": 2010,
+    "precio_usd": 40000,
+    "kilometraje": 95000,
+    "combustible": "Híbrido",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A049",
+    "marca": "Volkswagen",
+    "modelo": "Polo",
+    "anio": 2013,
+    "precio_usd": 11500,
+    "kilometraje": 235000,
+    "combustible": "Híbrido",
+    "transmision": "Manual"
+  },
+  {
+    "id": "A050",
+    "marca": "Peugeot",
+    "modelo": "308",
+    "anio": 2016,
+    "precio_usd": 26500,
+    "kilometraje": 65000,
+    "combustible": "Híbrido",
+    "transmision": "Automática"
+  }
+]
