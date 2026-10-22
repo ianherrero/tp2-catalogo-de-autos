@@ -26,13 +26,18 @@ def validar_auto(auto):
 def procesar_autos(autos):
     autos_validos = []
     autos_rechazados = 0
+    ids_vistos = set()
 
     for auto in autos:
         try:
             auto_limpio = limpiar_auto(auto)
 
             if validar_auto(auto_limpio):
-                autos_validos.append(auto_limpio)
+                if auto_limpio["id"] in ids_vistos:
+                    autos_rechazados += 1
+                else:
+                    ids_vistos.add(auto_limpio["id"])
+                    autos_validos.append(auto_limpio)
             else:
                 autos_rechazados += 1
 

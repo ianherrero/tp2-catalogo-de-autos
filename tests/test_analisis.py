@@ -6,6 +6,7 @@ from src.analisis import (
     calcular_precio_promedio,
     buscar_modelo_regex,
 )
+from src.auto import Auto
 
 class TestAnalisis(unittest.TestCase):
 
@@ -51,3 +52,12 @@ class TestAnalisis(unittest.TestCase):
         resultado = buscar_modelo_regex(autos, "corolla|gol")
 
         self.assertEqual(len(resultado), 2)
+    def test_clase_auto(self):
+        auto = Auto(
+            "A001", "Toyota", "Corolla", 2020,
+            12000, 50000, "Nafta", "Manual"
+        )
+
+        self.assertEqual(auto.antiguedad(), 6)
+        self.assertTrue(auto.es_economico())
+        self.assertIn("Toyota Corolla", auto.mostrar_resumen())
