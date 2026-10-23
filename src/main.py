@@ -51,8 +51,8 @@ def main():
             if resultado:
                 for auto in resultado:
                     print(
-                        f"{auto['marca']} {auto['modelo']} - "
-                        f"USD {auto['precio_usd']}"
+                        f"{auto['marca']} {auto['modelo']} ({auto['anio']}) - "
+                        f"USD {auto['precio_usd']} - {auto['kilometraje']} km - {auto['combustible']} - {auto['transmision']}"
                     )
             else:
                 print("No se encontraron autos de esa marca.")
@@ -65,8 +65,8 @@ def main():
                 if resultado:
                     for auto in resultado:
                         print(
-                            f"{auto['marca']} {auto['modelo']} - "
-                            f"USD {auto['precio_usd']}"
+                            f"{auto['marca']} {auto['modelo']} ({auto['anio']}) - "
+                            f"USD {auto['precio_usd']} - {auto['kilometraje']} km - {auto['combustible']} - {auto['transmision']}"
                         )
                 else:
                     print("No se encontraron autos en ese rango.")
@@ -87,8 +87,8 @@ def main():
                 if resultado:
                     for auto in resultado:
                         print(
-                            f"{auto['marca']} {auto['modelo']} - "
-                            f"USD {auto['precio_usd']}"
+                            f"{auto['marca']} {auto['modelo']} ({auto['anio']}) - "
+                            f"USD {auto['precio_usd']} - {auto['kilometraje']} km - {auto['combustible']} - {auto['transmision']}"
                         )
                 else:
                     print("No se encontraron modelos.")
